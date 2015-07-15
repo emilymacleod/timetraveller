@@ -1,0 +1,249 @@
+2015-07-03 13:22:45.209 myApp[55987:14593947] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Data/Application/A662D379-41AC-4BE2-AB1E-3EFF3CB663CD/Library/Cookies/Cookies.binarycookies
+2015-07-03 13:22:45.683 myApp[55987:14593947] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-03 13:22:45.684 myApp[55987:14593947] Multi-tasking -> Device: YES, App: YES
+2015-07-03 13:22:45.704 myApp[55987:14593947] Unlimited access to network resources
+2015-07-03 13:22:46.238 myApp[55987:14593947] [CDVTimer][keyboard] 0.176013ms
+2015-07-03 13:22:46.238 myApp[55987:14593947] [CDVTimer][TotalPluginStartup] 0.524044ms
+2015-07-03 13:22:46.945 myApp[55987:14593947] Resetting plugins due to page load.
+2015-07-03 13:22:47.354 myApp[55987:14593947] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Bundle/Application/21A891A5-B2C2-473F-A5BD-F1A780206BC4/myApp.app/www/index.html#/tab/dash
+2015-07-03 13:26:51.638 myApp[56227:14626793] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Data/Application/2755A9A3-4602-4238-8BF7-CFE507D630FD/Library/Cookies/Cookies.binarycookies
+2015-07-03 13:26:51.802 myApp[56227:14626793] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-03 13:26:51.802 myApp[56227:14626793] Multi-tasking -> Device: YES, App: YES
+2015-07-03 13:26:51.805 myApp[56227:14626793] Unlimited access to network resources
+2015-07-03 13:26:51.916 myApp[56227:14626793] [CDVTimer][keyboard] 0.084043ms
+2015-07-03 13:26:51.916 myApp[56227:14626793] [CDVTimer][TotalPluginStartup] 0.306964ms
+2015-07-03 13:26:52.056 myApp[56227:14626793] Resetting plugins due to page load.
+2015-07-03 13:26:52.336 myApp[56227:14626793] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Bundle/Application/C7EA8B86-9AEA-43B6-8065-76D46CD16EE8/myApp.app/www/index.html#/tab/dash
+2015-07-03 13:38:50.379 myApp[56227:14711629] Terminating since there is no system app.
+2015-07-03 13:44:31.808 myApp[56520:14744603] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Data/Application/7E944093-D64D-49CD-B9E5-F68A2B0D5C5F/Library/Cookies/Cookies.binarycookies
+2015-07-03 13:44:32.281 myApp[56520:14744603] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-03 13:44:32.282 myApp[56520:14744603] Multi-tasking -> Device: YES, App: YES
+2015-07-03 13:44:32.308 myApp[56520:14744603] Unlimited access to network resources
+2015-07-03 13:44:32.850 myApp[56520:14744603] [CDVTimer][keyboard] 0.090003ms
+2015-07-03 13:44:32.850 myApp[56520:14744603] [CDVTimer][TotalPluginStartup] 0.331044ms
+2015-07-03 13:44:33.190 myApp[56520:14744603] Resetting plugins due to page load.
+2015-07-03 13:44:33.534 myApp[56520:14744603] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Bundle/Application/CC3A3581-B1AD-4BC1-A8A7-E58E78176C17/myApp.app/www/index.html#/tab/dash
+2015-07-03 13:44:46.183 myApp[56520:14746656] Terminating since there is no system app.
+2015-07-03 14:11:09.633 myApp[56746:14881746] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Data/Application/FE8B8ED4-1AC2-4064-89E6-126BEFFD0885/Library/Cookies/Cookies.binarycookies
+2015-07-03 14:11:10.157 myApp[56746:14881746] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-03 14:11:10.157 myApp[56746:14881746] Multi-tasking -> Device: YES, App: YES
+2015-07-03 14:11:10.182 myApp[56746:14881746] Unlimited access to network resources
+2015-07-03 14:11:10.698 myApp[56746:14881746] [CDVTimer][keyboard] 0.065982ms
+2015-07-03 14:11:10.698 myApp[56746:14881746] [CDVTimer][TotalPluginStartup] 0.607967ms
+2015-07-03 14:11:11.107 myApp[56746:14881746] Resetting plugins due to page load.
+2015-07-03 14:11:11.491 myApp[56746:14881746] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Bundle/Application/4F9A681F-24D9-4691-A889-7DAB482883BB/myApp.app/www/index.html#/tab/dash
+2015-07-03 14:14:05.631 myApp[56954:14906486] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Data/Application/6310E970-1BCE-48E4-B716-760C7234EB2C/Library/Cookies/Cookies.binarycookies
+2015-07-03 14:14:06.108 myApp[56954:14906486] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-03 14:14:06.109 myApp[56954:14906486] Multi-tasking -> Device: YES, App: YES
+2015-07-03 14:14:06.138 myApp[56954:14906486] Unlimited access to network resources
+2015-07-03 14:14:06.676 myApp[56954:14906486] [CDVTimer][keyboard] 0.070989ms
+2015-07-03 14:14:06.677 myApp[56954:14906486] [CDVTimer][TotalPluginStartup] 1.877010ms
+2015-07-03 14:14:07.087 myApp[56954:14906486] Resetting plugins due to page load.
+2015-07-03 14:14:07.440 myApp[56954:14906486] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Bundle/Application/E3752D84-4155-460E-B989-07CA310221BA/myApp.app/www/index.html#/tab/dash
+2015-07-03 14:17:04.092 myApp[57140:14928016] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Data/Application/7798061C-B928-4C3F-B0FA-4C9F00C135EE/Library/Cookies/Cookies.binarycookies
+2015-07-03 14:17:04.335 myApp[57140:14928016] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-03 14:17:04.336 myApp[57140:14928016] Multi-tasking -> Device: YES, App: YES
+2015-07-03 14:17:04.354 myApp[57140:14928016] Unlimited access to network resources
+2015-07-03 14:17:04.670 myApp[57140:14928016] [CDVTimer][keyboard] 0.079989ms
+2015-07-03 14:17:04.670 myApp[57140:14928016] [CDVTimer][TotalPluginStartup] 0.285029ms
+2015-07-03 14:17:05.010 myApp[57140:14928016] Resetting plugins due to page load.
+2015-07-03 14:17:05.332 myApp[57140:14928016] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Bundle/Application/5A658844-C692-46BE-9FE5-BA89190879D7/myApp.app/www/index.html#/tab/dash
+2015-07-03 14:18:36.843 myApp[57271:14940808] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Data/Application/306FA66F-188A-4A16-B68F-49B8E7E50BD9/Library/Cookies/Cookies.binarycookies
+2015-07-03 14:18:36.930 myApp[57271:14940808] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-03 14:18:36.930 myApp[57271:14940808] Multi-tasking -> Device: YES, App: YES
+2015-07-03 14:18:36.932 myApp[57271:14940808] Unlimited access to network resources
+2015-07-03 14:18:37.013 myApp[57271:14940808] [CDVTimer][keyboard] 0.061989ms
+2015-07-03 14:18:37.014 myApp[57271:14940808] [CDVTimer][TotalPluginStartup] 0.244975ms
+2015-07-03 14:18:37.111 myApp[57271:14940808] Resetting plugins due to page load.
+2015-07-03 14:18:37.321 myApp[57271:14940808] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Bundle/Application/0D9B400E-DACA-4F2F-9AD0-0BD48DC0772A/myApp.app/www/index.html#/tab/dash
+2015-07-03 14:31:32.116 myApp[57460:14988487] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Data/Application/4B65776F-2D4F-4492-BBC5-BC357E219B5B/Library/Cookies/Cookies.binarycookies
+2015-07-03 14:31:32.671 myApp[57460:14988487] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-03 14:31:32.672 myApp[57460:14988487] Multi-tasking -> Device: YES, App: YES
+2015-07-03 14:31:32.703 myApp[57460:14988487] Unlimited access to network resources
+2015-07-03 14:31:33.264 myApp[57460:14988487] [CDVTimer][keyboard] 0.138998ms
+2015-07-03 14:31:33.264 myApp[57460:14988487] [CDVTimer][TotalPluginStartup] 0.499010ms
+2015-07-03 14:31:33.709 myApp[57460:14988487] Resetting plugins due to page load.
+2015-07-03 14:31:34.126 myApp[57460:14988487] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Bundle/Application/ECF63D5B-D5DD-40A1-9260-0BEA4A3802E3/myApp.app/www/index.html#/tab/dash
+2015-07-03 14:33:57.838 myApp[57637:15006197] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Data/Application/F59FDFA9-D385-48F2-95F7-F34DB79AAE9B/Library/Cookies/Cookies.binarycookies
+2015-07-03 14:33:57.994 myApp[57637:15006197] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-03 14:33:57.994 myApp[57637:15006197] Multi-tasking -> Device: YES, App: YES
+2015-07-03 14:33:57.997 myApp[57637:15006197] Unlimited access to network resources
+2015-07-03 14:33:58.110 myApp[57637:15006197] [CDVTimer][keyboard] 0.075996ms
+2015-07-03 14:33:58.110 myApp[57637:15006197] [CDVTimer][TotalPluginStartup] 0.263035ms
+2015-07-03 14:33:58.216 myApp[57637:15006197] Resetting plugins due to page load.
+2015-07-03 14:33:58.492 myApp[57637:15006197] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Bundle/Application/4A77F4FD-CDE4-4560-A17F-7AB1646F631D/myApp.app/www/index.html#/tab/dash
+2015-07-03 14:35:22.430 myApp[57808:15015159] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Data/Application/18E62B20-0C8C-43D3-A483-DA82E8F1E2C5/Library/Cookies/Cookies.binarycookies
+2015-07-03 14:35:22.579 myApp[57808:15015159] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-03 14:35:22.580 myApp[57808:15015159] Multi-tasking -> Device: YES, App: YES
+2015-07-03 14:35:22.584 myApp[57808:15015159] Unlimited access to network resources
+2015-07-03 14:35:22.692 myApp[57808:15015159] [CDVTimer][keyboard] 0.084996ms
+2015-07-03 14:35:22.692 myApp[57808:15015159] [CDVTimer][TotalPluginStartup] 0.467002ms
+2015-07-03 14:35:22.789 myApp[57808:15015159] Resetting plugins due to page load.
+2015-07-03 14:35:23.056 myApp[57808:15015159] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Bundle/Application/713390CD-BCBC-4A96-A9D1-94A65F5E08DC/myApp.app/www/index.html#/tab/dash
+2015-07-03 14:42:25.913 myApp[58023:15062692] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Data/Application/726A309B-6475-466D-847D-FAF54E42FDD4/Library/Cookies/Cookies.binarycookies
+2015-07-03 14:42:26.175 myApp[58023:15062692] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-03 14:42:26.175 myApp[58023:15062692] Multi-tasking -> Device: YES, App: YES
+2015-07-03 14:42:26.178 myApp[58023:15062692] Unlimited access to network resources
+2015-07-03 14:42:26.565 myApp[58023:15062692] [CDVTimer][keyboard] 0.074029ms
+2015-07-03 14:42:26.565 myApp[58023:15062692] [CDVTimer][TotalPluginStartup] 0.263989ms
+2015-07-03 14:42:26.909 myApp[58023:15062692] Resetting plugins due to page load.
+2015-07-03 14:42:27.255 myApp[58023:15062692] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E941917A-26E4-4BC6-888D-80E7B2C38F40/data/Containers/Bundle/Application/FA74776D-2C89-4FCA-A33B-0BD3E34C52C8/myApp.app/www/index.html#/tab/dash
+2015-07-10 13:45:02.474 myApp[63456:17999006] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Data/Application/0724312A-E0CE-4325-BCD6-67712A4C6979/Library/Cookies/Cookies.binarycookies
+2015-07-10 13:45:02.859 myApp[63456:17999006] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-10 13:45:02.859 myApp[63456:17999006] Multi-tasking -> Device: YES, App: YES
+2015-07-10 13:45:02.882 myApp[63456:17999006] Unlimited access to network resources
+2015-07-10 13:45:03.347 myApp[63456:17999006] [CDVTimer][keyboard] 0.112951ms
+2015-07-10 13:45:03.347 myApp[63456:17999006] [CDVTimer][TotalPluginStartup] 0.446975ms
+2015-07-10 13:45:03.991 myApp[63456:17999006] Resetting plugins due to page load.
+2015-07-10 13:45:04.369 myApp[63456:17999006] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/646594DA-DF80-465C-900A-34CF8CAE538F/myApp.app/www/index.html#/tab/dash
+2015-07-10 13:46:51.024 myApp[63700:18017207] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-10 13:46:51.026 myApp[63700:18017207] Multi-tasking -> Device: YES, App: YES
+2015-07-10 13:46:51.028 myApp[63700:18017207] Unlimited access to network resources
+2015-07-10 13:46:51.127 myApp[63700:18017207] [CDVTimer][keyboard] 0.069022ms
+2015-07-10 13:46:51.127 myApp[63700:18017207] [CDVTimer][TotalPluginStartup] 0.259995ms
+2015-07-10 13:46:51.248 myApp[63700:18017207] Resetting plugins due to page load.
+2015-07-10 13:46:51.530 myApp[63700:18017207] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/FF315A80-82FA-4925-8264-D827A8BE93CA/myApp.app/www/index.html#/tab/dash
+2015-07-10 13:48:13.677 myApp[63897:18029954] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-10 13:48:13.678 myApp[63897:18029954] Multi-tasking -> Device: YES, App: YES
+2015-07-10 13:48:13.680 myApp[63897:18029954] Unlimited access to network resources
+2015-07-10 13:48:13.781 myApp[63897:18029954] [CDVTimer][keyboard] 0.083983ms
+2015-07-10 13:48:13.781 myApp[63897:18029954] [CDVTimer][TotalPluginStartup] 0.293970ms
+2015-07-10 13:48:13.885 myApp[63897:18029954] Resetting plugins due to page load.
+2015-07-10 13:48:14.133 myApp[63897:18029954] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/3D6D299A-5084-417A-AED3-4F63768B37BA/myApp.app/www/index.html#/tab/dash
+2015-07-10 13:49:07.079 myApp[64093:18038211] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-10 13:49:07.080 myApp[64093:18038211] Multi-tasking -> Device: YES, App: YES
+2015-07-10 13:49:07.082 myApp[64093:18038211] Unlimited access to network resources
+2015-07-10 13:49:07.185 myApp[64093:18038211] [CDVTimer][keyboard] 0.072956ms
+2015-07-10 13:49:07.185 myApp[64093:18038211] [CDVTimer][TotalPluginStartup] 0.261009ms
+2015-07-10 13:49:07.291 myApp[64093:18038211] Resetting plugins due to page load.
+2015-07-10 13:49:07.586 myApp[64093:18038211] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/8AAC74FA-4ACD-4650-8B06-0B7DF22D61A9/myApp.app/www/index.html#/tab/dash
+2015-07-10 14:19:01.735 myApp[64093:18191482] Terminating since there is no system app.
+2015-07-10 14:21:03.488 myApp[64489:18194174] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-10 14:21:03.492 myApp[64489:18194174] Multi-tasking -> Device: YES, App: YES
+2015-07-10 14:21:03.522 myApp[64489:18194174] Unlimited access to network resources
+2015-07-10 14:21:04.049 myApp[64489:18194174] [CDVTimer][keyboard] 0.138998ms
+2015-07-10 14:21:04.050 myApp[64489:18194174] [CDVTimer][TotalPluginStartup] 0.573039ms
+2015-07-10 14:21:04.439 myApp[64489:18194174] Resetting plugins due to page load.
+2015-07-10 14:21:05.112 myApp[64489:18194174] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/98A8C749-1AD9-443B-AD7E-72C8F975FA95/myApp.app/www/index.html#/tab/dash
+2015-07-13 10:39:16.694 myApp[65481:18595981] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-13 10:39:16.701 myApp[65481:18595981] Multi-tasking -> Device: YES, App: YES
+2015-07-13 10:39:16.729 myApp[65481:18595981] Unlimited access to network resources
+2015-07-13 10:39:17.229 myApp[65481:18595981] [CDVTimer][keyboard] 0.117958ms
+2015-07-13 10:39:17.229 myApp[65481:18595981] [CDVTimer][TotalPluginStartup] 1.095057ms
+2015-07-13 10:39:17.657 myApp[65481:18595981] Resetting plugins due to page load.
+2015-07-13 10:39:18.024 myApp[65481:18595981] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/5C224F09-8F66-4178-9A96-9C5A1B69DF95/myApp.app/www/index.html#/tab/dash
+2015-07-13 11:19:29.811 myApp[65777:18916613] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-13 11:19:29.813 myApp[65777:18916613] Multi-tasking -> Device: YES, App: YES
+2015-07-13 11:19:29.832 myApp[65777:18916613] Unlimited access to network resources
+2015-07-13 11:19:30.258 myApp[65777:18916613] [CDVTimer][keyboard] 0.078022ms
+2015-07-13 11:19:30.258 myApp[65777:18916613] [CDVTimer][TotalPluginStartup] 0.285029ms
+2015-07-13 11:19:30.697 myApp[65777:18916613] Resetting plugins due to page load.
+2015-07-13 11:19:31.075 myApp[65777:18916613] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/B3C83B40-F7F2-4993-97ED-AFEC3E8F9186/myApp.app/www/index.html#/tab/dash
+2015-07-13 11:27:55.179 myApp[66018:18985202] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-13 11:27:55.181 myApp[66018:18985202] Multi-tasking -> Device: YES, App: YES
+2015-07-13 11:27:55.197 myApp[66018:18985202] Unlimited access to network resources
+2015-07-13 11:27:55.633 myApp[66018:18985202] [CDVTimer][keyboard] 0.091970ms
+2015-07-13 11:27:55.634 myApp[66018:18985202] [CDVTimer][TotalPluginStartup] 0.328004ms
+2015-07-13 11:27:56.039 myApp[66018:18985202] Resetting plugins due to page load.
+2015-07-13 11:27:56.449 myApp[66018:18985202] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/EFFE3D81-791B-47BF-80E5-FBF0143A15F9/myApp.app/www/index.html#/tab/dash
+2015-07-13 11:56:22.483 myApp[66261:19193515] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-13 11:56:22.488 myApp[66261:19193515] Multi-tasking -> Device: YES, App: YES
+2015-07-13 11:56:22.534 myApp[66261:19193515] Unlimited access to network resources
+2015-07-13 11:56:23.082 myApp[66261:19193515] [CDVTimer][keyboard] 0.074983ms
+2015-07-13 11:56:23.082 myApp[66261:19193515] [CDVTimer][TotalPluginStartup] 0.291049ms
+2015-07-13 11:56:23.493 myApp[66261:19193515] Resetting plugins due to page load.
+2015-07-13 11:56:23.908 myApp[66261:19193515] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/B5821FFC-35FB-40AB-999B-22E3B41EFF27/myApp.app/www/index.html#/tab/dash
+2015-07-15 11:29:29.096 myApp[71974:19986288] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-15 11:29:29.100 myApp[71974:19986288] Multi-tasking -> Device: YES, App: YES
+2015-07-15 11:29:29.131 myApp[71974:19986288] Unlimited access to network resources
+2015-07-15 11:29:29.682 myApp[71974:19986288] [CDVTimer][keyboard] 0.096977ms
+2015-07-15 11:29:29.683 myApp[71974:19986288] [CDVTimer][TotalPluginStartup] 0.342965ms
+2015-07-15 11:29:30.181 myApp[71974:19986288] Resetting plugins due to page load.
+2015-07-15 11:29:30.627 myApp[71974:19986288] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/CEBF2F03-A3DE-40C4-988C-A2C9FC56DB6D/myApp.app/www/index.html#/tab/dash
+2015-07-15 11:29:35.542 myApp[71974:19986288] Resetting plugins due to page load.
+2015-07-15 11:29:35.547 myApp[71974:19986288] Failed to load webpage with error: The requested URL was not found on this server.
+2015-07-15 11:29:37.808 myApp[71974:19986288] Resetting plugins due to page load.
+2015-07-15 11:29:37.813 myApp[71974:19986288] Failed to load webpage with error: The requested URL was not found on this server.
+2015-07-15 11:29:40.092 myApp[71974:19986288] Resetting plugins due to page load.
+2015-07-15 11:29:40.093 myApp[71974:19986288] Failed to load webpage with error: The requested URL was not found on this server.
+2015-07-15 11:29:40.328 myApp[71974:19986288] Resetting plugins due to page load.
+2015-07-15 11:29:40.329 myApp[71974:19986288] Failed to load webpage with error: The requested URL was not found on this server.
+2015-07-15 11:29:40.474 myApp[71974:19986288] Resetting plugins due to page load.
+2015-07-15 11:29:40.476 myApp[71974:19986288] Failed to load webpage with error: The requested URL was not found on this server.
+2015-07-15 11:29:40.676 myApp[71974:19986288] Resetting plugins due to page load.
+2015-07-15 11:29:40.678 myApp[71974:19986288] Failed to load webpage with error: The requested URL was not found on this server.
+2015-07-15 11:33:26.358 myApp[72205:20016222] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-15 11:33:26.360 myApp[72205:20016222] Multi-tasking -> Device: YES, App: YES
+2015-07-15 11:33:26.376 myApp[72205:20016222] Unlimited access to network resources
+2015-07-15 11:33:26.749 myApp[72205:20016222] [CDVTimer][keyboard] 0.091016ms
+2015-07-15 11:33:26.750 myApp[72205:20016222] [CDVTimer][TotalPluginStartup] 0.312030ms
+2015-07-15 11:33:27.096 myApp[72205:20016222] Resetting plugins due to page load.
+2015-07-15 11:33:27.480 myApp[72205:20016222] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/B31A5074-9009-4C1A-B30A-3F1F4AD6D2C1/myApp.app/www/index.html#/tab/dash
+2015-07-15 11:33:42.846 myApp[72205:20016222] Resetting plugins due to page load.
+2015-07-15 11:33:42.902 myApp[72205:20016222] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/B31A5074-9009-4C1A-B30A-3F1F4AD6D2C1/myApp.app/www/templates/tab-chats.html
+2015-07-15 11:37:51.145 myApp[72405:20048680] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-15 11:37:51.148 myApp[72405:20048680] Multi-tasking -> Device: YES, App: YES
+2015-07-15 11:37:51.169 myApp[72405:20048680] Unlimited access to network resources
+2015-07-15 11:37:51.537 myApp[72405:20048680] [CDVTimer][keyboard] 0.093997ms
+2015-07-15 11:37:51.537 myApp[72405:20048680] [CDVTimer][TotalPluginStartup] 1.015961ms
+2015-07-15 11:37:51.851 myApp[72405:20048680] Resetting plugins due to page load.
+2015-07-15 11:37:52.235 myApp[72405:20048680] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/39519194-C213-41AC-B52D-50079748DC64/myApp.app/www/index.html#/tab/dash
+2015-07-15 11:37:53.420 myApp[72405:20048680] Resetting plugins due to page load.
+2015-07-15 11:37:53.449 myApp[72405:20048680] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/39519194-C213-41AC-B52D-50079748DC64/myApp.app/www/templates/tab-chats.html
+2015-07-15 11:40:45.063 myApp[72605:20073096] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-15 11:40:45.065 myApp[72605:20073096] Multi-tasking -> Device: YES, App: YES
+2015-07-15 11:40:45.066 myApp[72605:20073096] Unlimited access to network resources
+2015-07-15 11:40:45.394 myApp[72605:20073096] [CDVTimer][keyboard] 0.073969ms
+2015-07-15 11:40:45.394 myApp[72605:20073096] [CDVTimer][TotalPluginStartup] 0.262022ms
+2015-07-15 11:40:45.680 myApp[72605:20073096] Resetting plugins due to page load.
+2015-07-15 11:40:46.098 myApp[72605:20073096] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/F4B4E905-5B35-4545-805C-B496C9FD88BD/myApp.app/www/index.html#/tab/dash
+2015-07-15 11:40:48.196 myApp[72605:20073096] Resetting plugins due to page load.
+2015-07-15 11:40:48.222 myApp[72605:20073096] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/F4B4E905-5B35-4545-805C-B496C9FD88BD/myApp.app/www/templates/tab-chats.html
+2015-07-15 11:42:58.231 myApp[72765:20090508] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-15 11:42:58.232 myApp[72765:20090508] Multi-tasking -> Device: YES, App: YES
+2015-07-15 11:42:58.234 myApp[72765:20090508] Unlimited access to network resources
+2015-07-15 11:42:58.321 myApp[72765:20090508] [CDVTimer][keyboard] 0.080049ms
+2015-07-15 11:42:58.321 myApp[72765:20090508] [CDVTimer][TotalPluginStartup] 0.298977ms
+2015-07-15 11:42:58.421 myApp[72765:20090508] Resetting plugins due to page load.
+2015-07-15 11:42:58.684 myApp[72765:20090508] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/CA427E4F-8C15-41F9-92FF-4A9E4E884235/myApp.app/www/index.html#/tab/dash
+2015-07-15 11:43:01.697 myApp[72765:20090508] Resetting plugins due to page load.
+2015-07-15 11:43:01.705 myApp[72765:20090508] Failed to load webpage with error: The requested URL was not found on this server.
+2015-07-15 11:43:05.900 myApp[72765:20090508] Resetting plugins due to page load.
+2015-07-15 11:43:05.904 myApp[72765:20090508] Failed to load webpage with error: The requested URL was not found on this server.
+2015-07-15 11:47:27.373 myApp[72765:20090508] Resetting plugins due to page load.
+2015-07-15 11:47:27.385 myApp[72765:20090508] Failed to load webpage with error: The requested URL was not found on this server.
+2015-07-15 11:47:30.909 myApp[72765:20126121] Terminating since there is no system app.
+2015-07-15 11:48:07.882 myApp[73034:20130727] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-15 11:48:07.883 myApp[73034:20130727] Multi-tasking -> Device: YES, App: YES
+2015-07-15 11:48:07.899 myApp[73034:20130727] Unlimited access to network resources
+2015-07-15 11:48:08.222 myApp[73034:20130727] [CDVTimer][keyboard] 0.079036ms
+2015-07-15 11:48:08.222 myApp[73034:20130727] [CDVTimer][TotalPluginStartup] 0.285983ms
+2015-07-15 11:48:08.630 myApp[73034:20130727] Resetting plugins due to page load.
+2015-07-15 11:48:08.975 myApp[73034:20130727] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/689EE72F-729F-475B-961E-09E0805EA45A/myApp.app/www/index.html#/tab/dash
+2015-07-15 11:48:11.518 myApp[73034:20130727] Resetting plugins due to page load.
+2015-07-15 11:48:11.534 myApp[73034:20130727] Failed to load webpage with error: Frame load interrupted
+2015-07-15 11:48:13.416 myApp[73034:20130727] Resetting plugins due to page load.
+2015-07-15 11:48:13.419 myApp[73034:20130727] Failed to load webpage with error: Frame load interrupted
+2015-07-15 11:48:14.338 myApp[73034:20130727] Resetting plugins due to page load.
+2015-07-15 11:48:14.342 myApp[73034:20130727] Failed to load webpage with error: Frame load interrupted
+2015-07-15 11:48:16.960 myApp[73034:20130727] Resetting plugins due to page load.
+2015-07-15 11:48:16.964 myApp[73034:20130727] Failed to load webpage with error: Frame load interrupted
+2015-07-15 11:48:41.609 myApp[73034:20130727] Resetting plugins due to page load.
+2015-07-15 11:48:41.618 myApp[73034:20130727] Failed to load webpage with error: The requested URL was not found on this server.
+2015-07-15 11:48:42.947 myApp[73034:20130727] Resetting plugins due to page load.
+2015-07-15 11:48:42.952 myApp[73034:20130727] Failed to load webpage with error: The requested URL was not found on this server.
+2015-07-15 11:48:43.768 myApp[73034:20130727] Resetting plugins due to page load.
+2015-07-15 11:48:43.770 myApp[73034:20130727] Failed to load webpage with error: The requested URL was not found on this server.
+2015-07-15 11:49:35.249 myApp[73034:20130727] Resetting plugins due to page load.
+2015-07-15 11:49:35.258 myApp[73034:20130727] Failed to load webpage with error: The requested URL was not found on this server.
+2015-07-15 11:49:35.440 myApp[73034:20130727] Resetting plugins due to page load.
+2015-07-15 11:49:35.451 myApp[73034:20130727] Failed to load webpage with error: The requested URL was not found on this server.
+2015-07-15 11:50:03.631 myApp[73034:20130727] Resetting plugins due to page load.
+2015-07-15 11:50:03.642 myApp[73034:20130727] Failed to load webpage with error: Frame load interrupted
+2015-07-15 11:54:44.219 myApp[73234:20177304] Apache Cordova native platform version 3.7.0 is starting.
+2015-07-15 11:54:44.220 myApp[73234:20177304] Multi-tasking -> Device: YES, App: YES
+2015-07-15 11:54:44.221 myApp[73234:20177304] Unlimited access to network resources
+2015-07-15 11:54:44.309 myApp[73234:20177304] [CDVTimer][keyboard] 0.076950ms
+2015-07-15 11:54:44.309 myApp[73234:20177304] [CDVTimer][TotalPluginStartup] 0.293016ms
+2015-07-15 11:54:44.423 myApp[73234:20177304] Resetting plugins due to page load.
+2015-07-15 11:54:44.670 myApp[73234:20177304] Finished load of: file:///Users/emilymacleod/Library/Developer/CoreSimulator/Devices/E554601A-7111-40E6-8122-0D0512801A30/data/Containers/Bundle/Application/4AB41E19-EFE3-4DD4-857E-C410081A79CD/myApp.app/www/index.html#/tab/dash
