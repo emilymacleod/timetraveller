@@ -1,8 +1,14 @@
 angular.module('starter.controllers', [])
 
-.controller('DashCtrl', function($scope) {})
+.controller('DashCtrl', function($scope) {
+  //$ionicConfigProvider.views.maxCache(0);
 
-.controller('ItemCtrl', function($scope) {})
+})
+
+.controller('ItemCtrl', function($scope) {
+  // $ionicConfigProvider.views.maxCache(0);
+
+})
 
 .controller('ChatsCtrl', function($scope, Chats) {
   // With the new view caching in Ionic, Controllers are only called

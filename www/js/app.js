@@ -32,6 +32,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
   // setup an abstract state for the tabs directive
     .state('tab', {
     url: "/tab",
+    cache: false,
     abstract: true,
     templateUrl: "templates/tabs.html"
   })
@@ -40,6 +41,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
 
   .state('tab.dash', {
     url: '/dash',
+    cache: false,
     views: {
       'tab-dash': {
         templateUrl: 'templates/tab-dash.html',
@@ -50,6 +52,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
 
   .state('tab.chats', {
       url: '/viewprofile',
+      cache: false,
       views: {
         'tab-dash': {
           templateUrl: 'templates/tab-chats.html',
@@ -60,6 +63,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
 
   .state('tab.item', {
       url: '/item',
+      cache: false,
       views: {
         'tab-dash': {
           templateUrl: 'templates/item.html',
@@ -70,6 +74,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
 
     .state('tab.chat-detail', {
       url: '/chats/:chatId',
+      cache: false,
       views: {
         'tab-chats': {
           templateUrl: 'templates/chat-detail.html',
@@ -80,6 +85,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
 
   .state('tab.account', {
     url: '/account',
+    cache: false,
     views: {
       'tab-account': {
         templateUrl: 'templates/tab-account.html',
@@ -90,6 +96,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
 
   .state('tab.camera', {
       url: '/camera',
+      cache: false,
       views: {
         'tab-camera': {
           templateUrl: 'templates/tab-camera.html',
@@ -100,6 +107,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
 
   .state('tab.publicgallery', {
       url: '/publicgallery',
+      cache: false,
       views: {
         'tab-publicgallery': {
           templateUrl: 'templates/tab-publicgallery.html',
